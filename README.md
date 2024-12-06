@@ -1,4 +1,5 @@
-# URL Shortener
+# URL Shortener and tracker
+
 An open-source [URL shortener](https://idm.in/) to create shorten link with Cloudflare worker and pages. Deploy on Cloudflare for custom domain for free!
 
 ![url shortener](/assets/url-shortener.png)
